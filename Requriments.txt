@@ -1,0 +1,8 @@
+langgraph
+langchain
+langchain-groq 
+langchain-ollama 
+python-dotenv 
+pydantic 
+requests 
+ipykernel
